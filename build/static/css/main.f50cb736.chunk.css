@@ -1,0 +1,2 @@
+.custom-option{transition:background 60ms}.custom-option:hover{transition-delay:60ms;background:#deebff}.custom-option.custom-select__option--is-focused{background:none}.custom-option.custom-select__option--is-selected{background:#2684ff}#root,.App,body,html{display:flex;justify-content:center;align-items:center;height:75%;width:100%}body{background:linear-gradient(90deg,rgba(161,140,209,.5),rgba(251,194,235,.5))}
+/*# sourceMappingURL=main.f50cb736.chunk.css.map */
